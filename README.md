@@ -16,7 +16,7 @@ This is a simple banking system implemented in C++ that allows users to perform 
 - Run the compiled executable.
 - Follow the on-screen instructions to perform various banking operations.
 ### Usage Example
-
+```
 ***Banking System***
 
         Select one option below:
@@ -39,7 +39,10 @@ Account Number: 1
 Balance: 1000
 
 ...
+
 Enter your choice: 7
+
+```
 
 ### File Structure
 - main.cpp: Contains the main program logic.
